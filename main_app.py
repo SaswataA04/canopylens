@@ -30,7 +30,7 @@ MODEL_NAME = "weecology/deepforest-tree"
 
 st.set_page_config(
     page_title=APP_NAME,
-    page_icon="🌳",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded",
 )
@@ -111,7 +111,7 @@ st.markdown(
 st.markdown(
     """
     <div class="hero">
-        <div class="hero-title">🌳 CanopyLens</div>
+        <div class="hero-title"> CanopyLens</div>
         <div class="hero-subtitle">
             Detect individual tree crowns, analyse a forest boundary,
             and estimate approximate canopy coverage from georeferenced imagery.
