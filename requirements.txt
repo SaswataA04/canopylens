@@ -5,3 +5,6 @@ opencv-python
 matplotlib
 pandas
 numpy
+rasterio
+shapely
+pyproj
