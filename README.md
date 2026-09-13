@@ -4,7 +4,6 @@
 
 CanopyLens is a Streamlit-based geospatial analysis tool that detects individual tree crowns from high-resolution GeoTIFF imagery using **DeepForest**, optionally restricts the analysis to a **KML forest boundary**, and estimates the approximate canopy area covered by the detected trees.
 
-The project was built for the **Flora Carbon AI Hiring Hackathon**.
 
 > **Important:** CanopyLens reports canopy area as an approximation derived from tree-detection bounding boxes. It does not perform pixel-level crown segmentation and should not be treated as ground-truth canopy measurement.
 
