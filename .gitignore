@@ -1,0 +1,40 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Generated outputs
+detected_trees.png
+geotiff_detected_trees.png
+geotiff_detections.csv
+
+# Local datasets
+data/
+*.tif
+*.tiff
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.env
+secrets.toml
+
+
+
+app_backup.py
+check_geotiff.py
+generate_kml.py
+geo_utils.py
+kml_utils.py
+test_geo.py
+test_geotiff_model.py
+test_model.py

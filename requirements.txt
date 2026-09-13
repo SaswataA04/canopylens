@@ -1,0 +1,7 @@
+streamlit
+deepforest
+pillow
+opencv-python
+matplotlib
+pandas
+numpy

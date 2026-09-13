@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>CanopyLens Demo Forest Boundary</name>
+        <Placemark>
+            <name>Demo Forest AOI</name>
+            <description>Synthetic demonstration AOI created for validating CanopyLens boundary analysis. Not a surveyed forest boundary.</description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>11.940046361868783,51.489835815500165,0 11.940535431156235,51.48982354440066,0 11.940645302448688,51.48973983776441,0 11.940595211134323,51.48963316192628,0 11.940489317378207,51.48955486950386,0 11.94043807034597,51.48943023379986,0 11.940371283113686,51.48928799920093,0 11.940404029260486,51.48912527833159,0 11.940321702259107,51.48896544482278,0 11.939990867455482,51.48897374538306,0 11.940046361868783,51.489835815500165,0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>

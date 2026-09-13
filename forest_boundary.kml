@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+        <name>CanopyLens Test Forest Boundary</name>
+        <Placemark>
+            <name>Forest AOI</name>
+            <description>Synthetic forest boundary generated from the GeoTIFF extent for CanopyLens testing.</description>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>11.94129673403674,51.4918011956259,0 11.94133143662307,51.49233998857652,0 11.94046832604118,51.492361648688174,0 11.940433633602261,51.49182285532216,0 11.94129673403674,51.4918011956259,0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
